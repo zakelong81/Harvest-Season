@@ -1,0 +1,61 @@
+fileFormatVersion: 2
+guid: ec8daa71c62ee36428a8c330a0d4a13b
+timeCreated: 1522253525
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - weed0: {fileID: 21300000, guid: 5529262d35d58fc4e8bcd087b46487f9, type: 3}
+  - weed1: {fileID: 21300000, guid: 189d0ccdf9512d0478c5498882faec65, type: 3}
+  - weed2: {fileID: 21300000, guid: 069d0962b4e853b4a844385e0945bd7e, type: 3}
+  - rock0: {fileID: 21300000, guid: 3c3418bb2081c694da97611bcd7db57b, type: 3}
+  - rock1: {fileID: 21300000, guid: 29a3c350e02e5c84cb1bbfb2baabde9e, type: 3}
+  - rock2: {fileID: 21300000, guid: 707ccee9107066d4083d69c4822ad225, type: 3}
+  - branch0: {fileID: 21300000, guid: da923e5bee32a5c4dac93299d138b173, type: 3}
+  - branch1: {fileID: 21300000, guid: dcb6a9088cfb8864596105597ac8e2c2, type: 3}
+  - branch2: {fileID: 21300000, guid: 517ec887919dfdd449f29ed9d1babbff, type: 3}
+  - dirt: {fileID: 21300000, guid: 9ee532761ab277f4789ea1a3608492a2, type: 3}
+  - dirt_water: {fileID: 21300000, guid: 4b51897de294940449392542c38cc029, type: 3}
+  - noPlantObj: {instanceID: 0}
+  - carrot0: {instanceID: 0}
+  - carrot1: {fileID: 21300000, guid: 7efebc6bf5168134db5f1963e9c5ca88, type: 3}
+  - carrot2: {fileID: 21300000, guid: b15dd06997e58054b9221a40e928e06b, type: 3}
+  - carrot3: {instanceID: 0}
+  - carrot4: {instanceID: 0}
+  - potato0: {instanceID: 0}
+  - potato1: {fileID: 21300000, guid: 94bb452f95678d346b90b1ba2e98bdcb, type: 3}
+  - potato2: {fileID: 21300000, guid: 132ff322c3ad0d24a8e0509361dbb136, type: 3}
+  - potato3: {fileID: 21300000, guid: 4c72b679309b5e84f96aa04d84ac4389, type: 3}
+  - potato4: {fileID: 21300000, guid: d9943564ed0f78b43a21b0deeed6251d, type: 3}
+  - corn0: {instanceID: 0}
+  - corn1: {instanceID: 0}
+  - corn2: {instanceID: 0}
+  - corn3: {instanceID: 0}
+  - corn4: {instanceID: 0}
+  - chili0: {instanceID: 0}
+  - chili1: {instanceID: 0}
+  - chili2: {instanceID: 0}
+  - chili3: {instanceID: 0}
+  - chili4: {instanceID: 0}
+  - atiso0: {instanceID: 0}
+  - atiso1: {instanceID: 0}
+  - atiso2: {instanceID: 0}
+  - atiso3: {instanceID: 0}
+  - atiso4: {instanceID: 0}
+  - cucumber0: {instanceID: 0}
+  - cucumber1: {instanceID: 0}
+  - cucumber2: {instanceID: 0}
+  - cucumber3: {instanceID: 0}
+  - cucumber4: {instanceID: 0}
+  - tomato0: {instanceID: 0}
+  - tomato1: {instanceID: 0}
+  - tomato2: {instanceID: 0}
+  - tomato3: {instanceID: 0}
+  - tomato4: {instanceID: 0}
+  - plotObj: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
